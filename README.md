@@ -23,6 +23,10 @@ I'm a passionate developer who loves to turn coffee into code. My journey in the
 ---
 Happy coding! 🚀
 
-  ()_() /n
+  ()_() 
+
+  
   (·_·)
+
+  
 O ((")(")
