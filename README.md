@@ -18,7 +18,7 @@ Welcome to my corner of the code universe! I'm **Dichao**, and this is my GitHub
 
 ## About Me
 
-I'm a passionate developer who loves to turn coffee into code. My journey in the world of programming has been filled with exciting challenges and endless learning. I'm always eager to expand my horizons.
+I'm a passionate developer who loves to turn coffee ☕️ into code 💻. My journey in the world of programming has been filled with exciting challenges and endless learning. I'm always eager to expand my horizons.
 
 ---
 Happy coding! 🚀
