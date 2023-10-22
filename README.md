@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 # Hello, World! 👋🌐
 
-Welcome to my corner of the code universe! I'm **Dichao**, and this is my GitHub repository where I store all the magic ✨. Feel free to explore, contribute, and let me know what you think!
+Welcome to my corner of the code universe! I'm **Dichao**, and this is my GitHub repository where I store all the magic ✨. Feel free to explore and contribute!
 
 ## About Me
 
-I'm a passionate developer who loves to turn coffee into code. My journey in the world of programming has been filled with exciting challenges and endless learning. I specialize in **Java**, and I'm always eager to expand my horizons.
+I'm a passionate developer who loves to turn coffee into code. My journey in the world of programming has been filled with exciting challenges and endless learning. I'm always eager to expand my horizons.
 
 ---
 Happy coding! 🚀
