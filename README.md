@@ -21,12 +21,13 @@ Welcome to my corner of the code universe! I'm **Dichao (荻超)**, and this is 
 
 I'm a passionate developer who loves to turn coffee ☕️ into code 💻. My journey in the world of programming has been filled with exciting challenges and endless learning. I'm always eager to expand my horizons.
 
-Happy coding! 🚀
 ---
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=DWMMI&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DWMMI&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
     <img src ="https://github-readme-streak-stats.herokuapp.com/?user=DWMMI&theme=merko&hide_border=true&background=FFFFFF00">
 </p>
+---
+Happy coding! 🚀
 
 
