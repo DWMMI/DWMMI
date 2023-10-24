@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<p1 align="center">
 # Hello, World! 👋 ¡Hola, Mundo! 🌐 你好，世界！
-</p>
+</p1>
 
 <p align="center">
 🇬🇧🇪🇸🇨🇳
