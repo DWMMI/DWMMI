@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=000000&center=true&repeat=false&random=false&width=500&lines=Hello%2C+World!+%F0%9F%91%8B+%C2%A1Hola%2C+Mundo!+%F0%9F%8C%90+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=21FF00&background=000000&center=true&repeat=false&random=false&width=500&lines=Hello%2C+World!+%F0%9F%91%8B+%C2%A1Hola%2C+Mundo!+%F0%9F%8C%90+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
