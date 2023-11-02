@@ -38,4 +38,13 @@ I'm a passionate developer who loves to turn coffee ☕️ into code 💻. My jo
 
 Happy coding! 🚀
 
+<!--Contador-->
+  <tr align="center">
+    <td>
+   <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9D%9A%85%F0%9D%99%B8%F0%9D%9A%82%F0%9D%99%B8%F0%9D%9A%83%F0%9D%99%BE%F0%9D%9A%81%20%F0%9D%99%B2%F0%9D%99%BE%F0%9D%9A%84%F0%9D%99%BD%F0%9D%9A%83%20-black?style=flat-square&logo=github&logoColor=1BFF00&link=https%3A%2F%2Fhub.docker.com%2Fu%2Falumnodam" width="210">
+    <img src="https://profile-counter.glitch.me/{DWMMI}/count.svg" align="center"/>
+    </td>
+  </tr>
+
+
 
