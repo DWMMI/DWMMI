@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=21FF00&background=000000&center=true&repeat=false&random=false&width=500&lines=Hello%2C+World!+%F0%9F%91%8B+%C2%A1Hola%2C+Mundo!+%F0%9F%8C%90+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zen+Kurenaido&letterSpacing=letter-spacing%3A+-1px;&pause=2000&color=F7F7F7&center=true&repeat=false&width=460&lines=Hello+world!+%C2%A1Hola+Mundo!+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C!++" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -38,10 +38,6 @@ I'm a passionate developer who loves to turn coffee ☕️ into code 💻. My jo
 
 <p align="center"> Happy coding! 🚀 </p>
 
-<!--Contador-->
- 
-   <img alt="Static Badge" align="center" src="https://img.shields.io/badge/%F0%9D%9A%85%F0%9D%99%B8%F0%9D%9A%82%F0%9D%99%B8%F0%9D%9A%83%F0%9D%99%BE%F0%9D%9A%81%20%F0%9D%99%B2%F0%9D%99%BE%F0%9D%9A%84%F0%9D%99%BD%F0%9D%9A%83%20-black?style=flat-square&logo=github&logoColor=1BFF00&link=https%3A%2F%2Fhub.docker.com%2Fu%2Falumnodam" width="210">
-    <img src="https://profile-counter.glitch.me/{DWMMI}/count.svg" align="center"/>
  
 
 
