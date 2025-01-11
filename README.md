@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43C53D&center=true&vCenter=true&width=435&lines=Hi+there!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43C53D&vCenter=true&width=435&lines=Hi+there!" alt="Typing SVG" /></a>
 
 </p>
 
 I'm **Dichao (荻超)**, and this is my GitHub repository where I store all the magic ✨. 
 
-## About Me
+## 🎨 About Me
 
 I'm a passionate developer who loves to turn coffee ☕️ into code 💻. My journey in the world of programming has been filled with exciting challenges and endless learning. I'm always eager to expand my horizons.
 
