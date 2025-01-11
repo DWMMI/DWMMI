@@ -35,7 +35,7 @@ I'm a passionate developer who loves to turn coffee ☕️ into code 💻. My jo
 ## 🛠️ My Toolbox
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,androidstudio,apple,arduino,cs,dotnet,figma,idea,java,py,postman,qt" />
+    <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,androidstudio,apple,windows,arduino,cs,dotnet,figma,idea,java,py,postman,qt" />
   </a>
 </p>
 <p align="center"> Happy coding! 🚀 </p>
