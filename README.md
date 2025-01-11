@@ -12,15 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=5CD76F&center=true&vCenter=true&width=435&lines=Hello+world!+" alt="Typing SVG" /></a>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43C53D&center=true&vCenter=true&width=435&lines=Hi+there!" alt="Typing SVG" /></a>
 
 </p>
 
-Welcome to my corner of the code universe! I'm **Dichao (荻超)**, and this is my GitHub repository where I store all the magic ✨. Feel free to explore and contribute!
+I'm **Dichao (荻超)**, and this is my GitHub repository where I store all the magic ✨. 
 
 ## About Me
 
 I'm a passionate developer who loves to turn coffee ☕️ into code 💻. My journey in the world of programming has been filled with exciting challenges and endless learning. I'm always eager to expand my horizons.
+
+## 🛠️ My Toolbox
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,androidstudio,apple,windows,arduino,cs,dotnet,figma,idea,java,py,postman,qt,wordpress,vscode,visualstudio,swift,spring" />
+  </a>
+</p>
 
 ---
 <p align="center">
@@ -31,13 +40,6 @@ I'm a passionate developer who loves to turn coffee ☕️ into code 💻. My jo
 <!-- https://github.com/anuraghazra/github-readme-stats#github-readme-stats -->
 
 ---
-
-## 🛠️ My Toolbox
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,androidstudio,apple,windows,arduino,cs,dotnet,figma,idea,java,py,postman,qt,wordpress,vscode,visualstudio,swift,spring" />
-  </a>
-</p>
 <p align="center"> Happy coding! 🚀 </p>
 
  
